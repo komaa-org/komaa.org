@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[보수교육] 온병학 임상 입문 — 상한방이 닿지 않는 임상의 공간"
+title: "[보수교육] 온병학 임상 입문 — 상한방이 닿지 않는 임상의 공간 (2026.05.27)"
 date: 2026-05-07 12:00:00 -0800
 categories: [education]
 tags: [보수교육, 온병학, 피부과, 음허, 정신과, 세미나]
@@ -438,6 +438,11 @@ excerpt: "온병방제 4선으로 여는 피부과·음허·정신과 치료의 
     <div class="wb-eyebrow">KOMAA 온라인 보수교육 · 2026</div>
     <h1>온병학 임상 입문<br><em>—</em> 상한방이 닿지 않는 임상의 공간</h1>
     <p class="wb-hero-sub">온병방제 4선으로 여는 피부과 · 음허 · 정신과 치료의 새 지평</p>
+  </div>
+
+  <!-- Flyer image -->
+  <div style="margin-bottom:1.8rem;">
+    <img src="/assets/images/2026-05-27-wenbing-flyer.png" alt="온병학 임상 입문 세미나 포스터 2026.05.27" style="width:100%;border-radius:12px;box-shadow:0 4px 20px rgba(0,0,0,0.15);">
   </div>
 
   <!-- Meta bar -->
